@@ -4871,7 +4871,7 @@
     (property "Value" "Jumper_NO_Small" (id 1) (at 134.874 174.244 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" (id 2) (at 134.62 172.72 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (id 2) (at 134.62 172.72 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 134.62 172.72 0)
@@ -4890,7 +4890,7 @@
     (property "Value" "Jumper_NO_Small" (id 1) (at 134.874 184.404 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm" (id 2) (at 134.62 182.88 0)
+    (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm" (id 2) (at 134.62 182.88 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 134.62 182.88 0)
@@ -5207,10 +5207,10 @@
       (reference "JP39") (unit 1) (value "Jumper_NO_Small") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
     )
     (path "/848e20a4-557f-4007-8642-e031cee2b4c6"
-      (reference "JP40") (unit 1) (value "Jumper_NO_Small") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "JP40") (unit 1) (value "Jumper_NO_Small") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/b3225d29-f857-4d57-85ef-a8f3aed9bffe"
-      (reference "JP41") (unit 1) (value "Jumper_NO_Small") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "JP41") (unit 1) (value "Jumper_NO_Small") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
     )
     (path "/00000000-0000-0000-0000-0000564a113b"
       (reference "P1") (unit 1) (value "X") (footprint "Pin_Headers:Pin_Header_Straight_2x04")
