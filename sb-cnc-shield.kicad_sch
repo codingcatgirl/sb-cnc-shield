@@ -2520,7 +2520,7 @@
     (property "Value" "ARDUINO_UNO_SHIELD" (id 1) (at 66.04 88.9 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "footprints:ARDUINO_SHIELD" (id 2) (at 66.04 24.13 0)
+    (property "Footprint" "sb-cnc-shield:ARDUINO_SHIELD" (id 2) (at 66.04 24.13 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 66.04 24.13 0)
@@ -2778,7 +2778,7 @@
   (symbol (lib_id "power:VCC") (at 240.03 38.1 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a2ca9)
-    (property "Reference" "#PWR?" (id 0) (at 240.03 41.91 0)
+    (property "Reference" "#PWR0103" (id 0) (at 240.03 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 240.03 34.29 0))
@@ -2867,7 +2867,7 @@
   (symbol (lib_id "power:VCC") (at 180.34 38.1 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a36bc)
-    (property "Reference" "#PWR?" (id 0) (at 180.34 41.91 0)
+    (property "Reference" "#PWR0101" (id 0) (at 180.34 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 180.34 34.29 0))
@@ -2946,7 +2946,7 @@
   (symbol (lib_id "power:VCC") (at 240.03 74.93 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a4eff)
-    (property "Reference" "#PWR?" (id 0) (at 240.03 78.74 0)
+    (property "Reference" "#PWR0105" (id 0) (at 240.03 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 240.03 71.12 0))
@@ -2962,7 +2962,7 @@
   (symbol (lib_id "power:VCC") (at 180.34 74.93 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a4f27)
-    (property "Reference" "#PWR?" (id 0) (at 180.34 78.74 0)
+    (property "Reference" "#PWR0102" (id 0) (at 180.34 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 180.34 71.12 0))
@@ -3114,7 +3114,7 @@
   (symbol (lib_id "power:VCC") (at 240.03 111.76 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a6eff)
-    (property "Reference" "#PWR?" (id 0) (at 240.03 115.57 0)
+    (property "Reference" "#PWR0110" (id 0) (at 240.03 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 240.03 107.95 0))
@@ -3130,7 +3130,7 @@
   (symbol (lib_id "power:VCC") (at 180.34 111.76 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a6f29)
-    (property "Reference" "#PWR?" (id 0) (at 180.34 115.57 0)
+    (property "Reference" "#PWR0112" (id 0) (at 180.34 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 180.34 107.95 0))
@@ -3146,7 +3146,7 @@
   (symbol (lib_id "power:VCC") (at 180.34 148.59 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a6fab)
-    (property "Reference" "#PWR?" (id 0) (at 180.34 152.4 0)
+    (property "Reference" "#PWR0111" (id 0) (at 180.34 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 180.34 144.78 0))
@@ -3162,7 +3162,7 @@
   (symbol (lib_id "power:VCC") (at 240.03 148.59 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564a706f)
-    (property "Reference" "#PWR?" (id 0) (at 240.03 152.4 0)
+    (property "Reference" "#PWR0113" (id 0) (at 240.03 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 240.03 144.78 0))
@@ -3560,7 +3560,7 @@
   (symbol (lib_id "power:VCC") (at 129.54 39.37 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564bace3)
-    (property "Reference" "#PWR?" (id 0) (at 129.54 43.18 0)
+    (property "Reference" "#PWR0109" (id 0) (at 129.54 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 129.54 35.56 0))
@@ -3709,7 +3709,7 @@
     (property "Reference" "JP19" (id 0) (at 135.89 109.728 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "SpinEn" (id 1) (at 136.144 113.284 0)
+    (property "Value" "SEn" (id 1) (at 136.144 113.284 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "footprints:Pin_100mil_Header_Straight_1x02" (id 2) (at 135.89 111.76 0)
@@ -3728,7 +3728,7 @@
     (property "Reference" "JP20" (id 0) (at 135.89 112.268 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "SpinDir" (id 1) (at 136.144 115.824 0)
+    (property "Value" "SDir" (id 1) (at 136.144 115.824 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "footprints:Pin_100mil_Header_Straight_1x02" (id 2) (at 135.89 114.3 0)
@@ -3747,7 +3747,7 @@
     (property "Reference" "JP21" (id 0) (at 135.89 114.808 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "CoolEn" (id 1) (at 136.144 118.364 0)
+    (property "Value" "Cool" (id 1) (at 136.144 118.364 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Footprint" "footprints:Pin_100mil_Header_Straight_1x02" (id 2) (at 135.89 116.84 0)
@@ -3916,7 +3916,7 @@
   (symbol (lib_id "power:VCC") (at 25.4 31.75 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564c7601)
-    (property "Reference" "#PWR?" (id 0) (at 25.4 35.56 0)
+    (property "Reference" "#PWR0107" (id 0) (at 25.4 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 25.4 27.94 0))
@@ -4078,7 +4078,7 @@
   (symbol (lib_id "power:VCC") (at 48.26 134.62 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564c8e63)
-    (property "Reference" "#PWR?" (id 0) (at 48.26 138.43 0)
+    (property "Reference" "#PWR0108" (id 0) (at 48.26 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 48.26 130.81 0))
@@ -4344,7 +4344,7 @@
   (symbol (lib_id "power:VCC") (at 229.87 24.13 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564e00c8)
-    (property "Reference" "#PWR?" (id 0) (at 229.87 27.94 0)
+    (property "Reference" "#PWR0104" (id 0) (at 229.87 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 229.87 20.32 0))
@@ -4360,7 +4360,7 @@
   (symbol (lib_id "power:VCC") (at 140.97 148.59 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000564e12c2)
-    (property "Reference" "#PWR?" (id 0) (at 140.97 152.4 0)
+    (property "Reference" "#PWR0106" (id 0) (at 140.97 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 140.97 144.78 0))
@@ -4630,44 +4630,44 @@
     (path "/00000000-0000-0000-0000-00005654e309"
       (reference "#PWR049") (unit 1) (value "GNDA") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000564a2ca9"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000564a36bc"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000564a4eff"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "VCC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000564a4f27"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+      (reference "#PWR0102") (unit 1) (value "VCC") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-0000564a6eff"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000564a6f29"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000564a6fab"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000564a706f"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000564bace3"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000564c7601"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-0000564c8e63"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    (path "/00000000-0000-0000-0000-0000564a2ca9"
+      (reference "#PWR0103") (unit 1) (value "VCC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000564e00c8"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+      (reference "#PWR0104") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564a4eff"
+      (reference "#PWR0105") (unit 1) (value "VCC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000564e12c2"
-      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+      (reference "#PWR0106") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564c7601"
+      (reference "#PWR0107") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564c8e63"
+      (reference "#PWR0108") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564bace3"
+      (reference "#PWR0109") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564a6eff"
+      (reference "#PWR0110") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564a6fab"
+      (reference "#PWR0111") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564a6f29"
+      (reference "#PWR0112") (unit 1) (value "VCC") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-0000564a706f"
+      (reference "#PWR0113") (unit 1) (value "VCC") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000564b89a6"
       (reference "C1") (unit 1) (value "100uF") (footprint "Capacitors_SMD:c_elec_6.3x7.7")
@@ -4736,13 +4736,13 @@
       (reference "JP18") (unit 1) (value "X-") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
     )
     (path "/00000000-0000-0000-0000-0000564bc8ad"
-      (reference "JP19") (unit 1) (value "SpinEn") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
+      (reference "JP19") (unit 1) (value "SEn") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
     )
     (path "/00000000-0000-0000-0000-0000564bc918"
-      (reference "JP20") (unit 1) (value "SpinDir") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
+      (reference "JP20") (unit 1) (value "SDir") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
     )
     (path "/00000000-0000-0000-0000-0000564bc98d"
-      (reference "JP21") (unit 1) (value "CoolEn") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
+      (reference "JP21") (unit 1) (value "Cool") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
     )
     (path "/00000000-0000-0000-0000-0000564bf2c2"
       (reference "JP22") (unit 1) (value "Abort") (footprint "footprints:Pin_100mil_Header_Straight_1x02")
@@ -4841,7 +4841,7 @@
       (reference "SW1") (unit 1) (value "RESET") (footprint "footprints:SWITCH_TACTILE_6.5_PTH")
     )
     (path "/00000000-0000-0000-0000-000056463a4a"
-      (reference "U1") (unit 1) (value "ARDUINO_UNO_SHIELD") (footprint "footprints:ARDUINO_SHIELD")
+      (reference "U1") (unit 1) (value "ARDUINO_UNO_SHIELD") (footprint "sb-cnc-shield:ARDUINO_SHIELD")
     )
     (path "/00000000-0000-0000-0000-0000564a0bda"
       (reference "U2") (unit 1) (value "X") (footprint "footprints:POLOLU_STEPPER_DRIVER")
