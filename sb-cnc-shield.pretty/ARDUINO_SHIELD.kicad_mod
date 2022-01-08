@@ -1,6 +1,6 @@
 (footprint "ARDUINO_SHIELD" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D85B6D)
+  (tedit 61D8DAED)
   (attr through_hole)
   (fp_text reference "U1" (at 5.715 -57.15) (layer "F.SilkS") hide
     (effects (font (size 1.524 1.524) (thickness 0.3048)))
@@ -41,4 +41,24 @@
   (pad "29" thru_hole circle (at 35.56 -2.54 90) (size 1.61 1.61) (drill 1) (layers *.Cu *.Mask "F.SilkS") (tstamp 0c100e24-d6e9-4165-9e6a-35608d735eda))
   (pad "30" thru_hole circle (at 33.02 -2.54 90) (size 1.61 1.61) (drill 1) (layers *.Cu *.Mask "F.SilkS") (tstamp c9789b4c-cc81-459b-b9d0-f302a21ecbc2))
   (pad "31" thru_hole circle (at 30.48 -2.54 90) (size 1.61 1.61) (drill 1) (layers *.Cu *.Mask "F.SilkS") (tstamp 4710b798-1e70-479f-a9cf-8924483eb95b))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x10_P2.54mm_Vertical.wrl"
+    (offset (xyz 18.796 50.8 -1.7272))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 90))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+    (offset (xyz 45.72 50.8 -1.7526))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 90))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x06_P2.54mm_Vertical.wrl"
+    (offset (xyz 50.8 2.54 -1.7272))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 90))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.wrl"
+    (offset (xyz 30.48 2.54 -1.7272))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 90))
+  )
 )
